@@ -2,5 +2,5 @@
 highlighter: pygments
 #url: http://arkadiusz-dymalski.github.io/lagom/
 lsi: false
-baseurl: /lagom/
+baseurl: /lagom
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
