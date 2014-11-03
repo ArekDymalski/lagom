@@ -1,6 +1,6 @@
 # General Jekyll Config
 highlighter: pygments
-url: http://arkadiusz-dymalski.github.io/lagom/
+#url: http://arkadiusz-dymalski.github.io/lagom/
 lsi: false
 baseurl: /lagom/
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
